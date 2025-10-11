@@ -5,4 +5,4 @@
 - I will commit and push for every part (video has 33 parts with intro and outro) routinely.
 
 ## LICENSE
-I wanted to use AGPL but it not allows me; so, i will write a license from scratch.
+AttiributionAndWebIncluded Games Pi License version 1(AWP_G-Pi-Lv1)
