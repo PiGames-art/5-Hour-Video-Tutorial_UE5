@@ -4,6 +4,10 @@
 - I am starting to commit from videos 1:29:02 time. Because i wasn't knew how can i use git lfs.
 - I will commit and push for every part (video has 33 parts with intro and outro) routinely.
 
+## Changelog
+18.10.2025: 1.29.02 -> 1.35.19 Normal light and lumen trained.
 ## LICENSE
 AttiributionAndWebIncluded Games Pi License version 1(AWP_G-Pi-Lv1)
+
+
 README.md: GNU FDL
