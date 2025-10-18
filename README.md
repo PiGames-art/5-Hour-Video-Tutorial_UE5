@@ -8,7 +8,7 @@
 ### 18.10.2025 
 1.29.02 -> 1.35.19 Normal light and lumen learned.
 1.35.19 -> 1.35.51 Spotlight learned.
-
+1.35.51 -> 1.36.47 Rectlight learned.
 
 ## LICENSE
 AttiributionAndWebIncluded Games Pi License version 1(AWP_G-Pi-Lv1)
