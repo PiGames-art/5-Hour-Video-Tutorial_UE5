@@ -10,6 +10,7 @@
 1.35.19 -> 1.35.51 Spotlight learned.
 1.35.51 -> 1.36.47 Rectlight learned.
 1.35.51 -> 1.37.26 Directional light learned.
+1.37.26 -> 1.39.40 Sky Light learned.
 
 ## LICENSE
 AttiributionAndWebIncluded Games Pi License version 1(AWP_G-Pi-Lv1)
