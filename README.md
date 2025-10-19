@@ -11,6 +11,7 @@ cd 5-Hour-Video-Tutorial_UE5
 git lfs install
 git lfs pull
 ```
+Open poject in UE5, then add startercontent.
 
 ## Changelog
 ### 18.10.2025 
